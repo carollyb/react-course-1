@@ -1,9 +1,10 @@
 .container{
     background-color:#282D35;
     margin: -8px;
-    background-image: url(./images/react-icon.png);
+    background-image: url(./images/react-logo-bigger.png);
     background-repeat: no-repeat;
-    background-position-x: 290px;
+    background-position-x: right;
+    background-position-y: center;
 }
 
 .nav{

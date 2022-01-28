@@ -7,6 +7,7 @@ This project was the first React challenge at Scrimba Front-end Developer Career
 - [x] Setting a local React App;
 - [x] Using custom React components;
 - [x] Applying style with CSS using className;
+- [x] JSX Basics;
 - [x] Understanding of parent/child react components.
 
 ## Design:
